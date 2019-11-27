@@ -1,3 +1,6 @@
+/* this comment added 2019-11-27 from room 137
+*/
+
  class My2DPoint {  
   double x;
   double  y;
